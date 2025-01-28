@@ -65,10 +65,10 @@ display: flex;
     margin-top: 20px;
     font-size: 38px;
     padding: 20px;
-    color: white;
+    color: rgb(13, 19, 33);
 }
 .hero-text-1 p{
-    color: white;
+    color: rgb(13, 19, 33);
 font-weight: 400;
 font-size: 18px;
 line-height: 26px;
@@ -157,7 +157,6 @@ background: rgb(13, 19, 33);
     border-radius: 2px;
 }
 
-/*second part*/
 
 .second_section{
     display: flex;
@@ -294,10 +293,10 @@ margin-bottom: 60px;
 
 .skills_container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 columns layout */
-    gap: 20px; /* Spacing between columns */
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px; 
     padding: 20px;
-    /* background-color: #f9f9f9; */
+   
     width: 70%;
     margin: auto;
 }
